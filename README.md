@@ -2,6 +2,10 @@
 Excel VBA for analyzing stock data
 ## Overview & Purpose
 
+### Overview
+
+### Purpose
+
 ## Results
 
 ### Analysis
