@@ -2,11 +2,11 @@
 Excel VBA for analyzing stock data
 ## Overview & Purpose
 
-##Results
+## Results
 
-###Analysis
+### Analysis
 
 ##Summary
 
 ### Advantages of Refractored VBA
-###Disadanages of Refractored VBA
+### Disadanages of Refractored VBA
